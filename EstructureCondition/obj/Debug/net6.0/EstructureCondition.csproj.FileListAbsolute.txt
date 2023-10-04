@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\bin\Debug\net6.0\EstructureCondition.exe
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\bin\Debug\net6.0\EstructureCondition.deps.json
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\bin\Debug\net6.0\EstructureCondition.runtimeconfig.json
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\bin\Debug\net6.0\EstructureCondition.dll
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\bin\Debug\net6.0\EstructureCondition.pdb
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\EstructureCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\EstructureCondition.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\EstructureCondition.AssemblyInfo.cs
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\EstructureCondition.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\EstructureCondition.dll
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\refint\EstructureCondition.dll
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\EstructureCondition.pdb
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\EstructureCondition.genruntimeconfig.cache
+C:\Users\gabri\source\repos\EstructureCondition\EstructureCondition\obj\Debug\net6.0\ref\EstructureCondition.dll
