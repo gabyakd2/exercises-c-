@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\bin\Debug\net6.0\FunctionsStrings.exe
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\bin\Debug\net6.0\FunctionsStrings.deps.json
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\bin\Debug\net6.0\FunctionsStrings.runtimeconfig.json
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\bin\Debug\net6.0\FunctionsStrings.dll
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\bin\Debug\net6.0\FunctionsStrings.pdb
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\FunctionsStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\FunctionsStrings.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\FunctionsStrings.AssemblyInfo.cs
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\FunctionsStrings.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\FunctionsStrings.dll
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\refint\FunctionsStrings.dll
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\FunctionsStrings.pdb
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\FunctionsStrings.genruntimeconfig.cache
+C:\Users\gabri\source\repos\EstructureCondition\FunctionsStrings\obj\Debug\net6.0\ref\FunctionsStrings.dll

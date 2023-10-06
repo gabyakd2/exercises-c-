@@ -93,7 +93,7 @@ getPassword = Convert.ToInt32(Console.ReadLine());
 switch (category)
 {
     case "A":
-        descriptionCategory = "Administrador";  
+        descriptionCategory = "Administrador";
         break;
     case "B":
         descriptionCategory = "Write";
